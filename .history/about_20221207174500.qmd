@@ -1,0 +1,19 @@
+---
+title: "About me"
+image: Kunal_qc.jpg
+about:
+  template: jolla
+  links:
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@khuranasoils
+    - icon: linkedin
+      text: LinkedIn
+      href: http://linkedin.com/in/khuranasoils 
+    - icon: github
+      text: Github
+      href: https://github.com/Kkhurana007 
+
+---
+
+About this blog

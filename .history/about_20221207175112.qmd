@@ -1,0 +1,21 @@
+---
+title: "About me"
+image: Kunal_qc.jpg
+about:
+  template: jolla
+  links:
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@khuranasoils
+    - icon: linkedin
+      text: LinkedIn
+      href: http://linkedin.com/in/khuranasoils 
+    - icon: github
+      text: Github
+      href: https://github.com/Kkhurana007 
+
+---
+
+I am a soil physicist broadly trained in agricultural sustainability, soil fertility, and plant nutrition. As a researcher, I seek answers to the fundamental questions about agricultural water and soil health management in the agroecosystems at multiple scales, using approaches that range from laboratory-based experiments to extensive field trials. My specific research interests include available crop water and nutrient (carbon, nitrogen, etc.) dynamics using precision agricultural tools and conservation techniques such as cover cropping, suitable crop rotations, and reduced or no tillage practices to provide better economic stability and stronger environmental resilience to agricultural systems globally under changing climate scenarios.
+
+Currently, I'm [working with this lab](https://kallenbachcm.wixsite.com/soils/people). 
