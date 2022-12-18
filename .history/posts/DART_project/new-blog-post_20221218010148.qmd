@@ -1,0 +1,12 @@
+---
+title: 'DART'
+published: false
+description: 'publiciy, outreach, whatelse'
+tags: 'farmers, nitrogen, yield'
+cover_image: 'RQRAD_DART_poster_En.pdf'
+canonical_url: 'https://rqrad.com/wp-content/uploads/2022/10/RQRAD_projets_resumes.pdf'
+---
+
+# Post title
+
+Post body

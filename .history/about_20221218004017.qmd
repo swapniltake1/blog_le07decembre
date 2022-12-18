@@ -2,7 +2,7 @@
 title: "About me"
 image: Kunal_qc.jpg
 about:
-  template: marquee
+  template: solana
   links:
     - icon: medium
       text: Medium
