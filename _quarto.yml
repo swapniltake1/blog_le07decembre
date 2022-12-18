@@ -5,6 +5,7 @@ website:
   title: "Kunal Khurana"
   navbar:
     right:
+      - news and media.qmd
       - about.qmd
       - icon: github
         href: https://github.com/Kkhurana007
